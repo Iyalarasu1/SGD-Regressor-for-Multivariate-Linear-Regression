@@ -1,7 +1,5 @@
 # SGD-Regressor-for-Multivariate-Linear-Regression
 
-## Date : 29.08.2024
-
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
 
